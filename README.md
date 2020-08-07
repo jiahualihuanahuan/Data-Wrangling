@@ -1,4 +1,8 @@
-# remove duplicated rows
+# Data Wrangling
+Here I will post some data wrangling techniques that might be useful for data preprocessing
+
+
+1. remove duplicated rows
 remove duplicates rows according to selected column
 
 There were a few csv files with possible duplicate contract number. I need to remove rows that with the same contract number and only keep one.
